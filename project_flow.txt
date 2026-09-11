@@ -1,0 +1,14 @@
+
+step1. cd ~/Desktop/MAIN or oprn terminal from this folder
+        git clone https://github.com/YOUR_USERNAME/assetguard-ai.git
+        after cloning again open the terminal from project folder or project root. 
+
+step2. by this initialise the python project using uv
+uv init --app --name assetguard-ai --python 3.12
+
+step3. open vs code by code .
+
+
+step4. git add .
+        git commit -m "Initialize AssetGuard AI project"
+        git push -u origin main
